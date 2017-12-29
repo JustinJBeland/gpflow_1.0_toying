@@ -5,7 +5,7 @@
 
 .PHONY : clean
 clean:
-	rm -f -r .ipynb_checkpoints objfcn.pyc fToolkit.pyc
+	rm -f -r .ipynb_checkpoints objfcn.pyc __pycache__
 	
 #######################################################################
 #######################################################################
